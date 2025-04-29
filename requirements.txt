@@ -34,6 +34,7 @@ pkginfo==1.12.1.2
 platformdirs==4.3.7
 poetry==2.1.2
 poetry-core==2.1.2
+psycopg2==2.9.10
 pycparser==2.22
 pyproject_hooks==1.2.0
 python-dotenv==1.1.0
